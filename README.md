@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shadow-dancing-alone-tonight/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Shadow Dancing Alone Tonight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shadow-dancing-alone-tonight/) |
+| **Get License** | [Commercial Licensing for Shadow Dancing Alone Tonight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shadow-dancing-alone-tonight/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `ffbbc0298da51026da664191488b1a693b9437ba1259185249a87474bc06340a` |
 | **Timestamp** | June 07, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
