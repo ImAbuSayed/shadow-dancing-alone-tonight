@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shadow-dancing-alone-tonight/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Shadow Dancing Alone Tonight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shadow-dancing-alone-tonight/) |
+| **Get License** | [Secure Licensing Rights for Shadow Dancing Alone Tonight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shadow-dancing-alone-tonight/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The midnight breeze is whispering your name
+> I’ve got the porch light burning just for you
+> This quiet room is calling out the same
+> And every shadow wears your silhouette so true
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
